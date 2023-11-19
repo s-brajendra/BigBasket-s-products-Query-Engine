@@ -2,14 +2,14 @@
 NLP English Language Query Engine For Extensively Product on Big Basket 
 
 
-### Features
+### 1. Features
 
 
 - Can generate response for query related to Extensively Big basket Product's data
 - Flask Api to interaction
 
 
-### Technologies Used
+### 2. Technologies Used
 
 Tools and Technology Used:
 
@@ -18,7 +18,7 @@ Tools and Technology Used:
 - Flasm Apli - 
  
 
-### Folder Description
+### 2. Folder Description
 #### Notebooks 
 - contains all the jupiter notebook used in experimenting to improve model ()
 
@@ -49,7 +49,7 @@ Note book is aimed to integrating vector dd qdrant llm model
 
 
 
-### Installation
+### 3. Installation
 
 
 **VISIT ME ON** 
