@@ -13,14 +13,41 @@ NLP English Language Query Engine For Extensively Product on Big Basket
 
 Tools and Technology Used:
 
-- [PyTorch][link_PyTorch] - 
-- [Qdrant][link_qdrant] - optimizerd similar Vector Search Space.
-- [Flasm Apli][] - 
+- PyTorch] - 
+- Qdrant - vector DB for efficient search.
+- Flasm Apli - 
  
 
-#### Folder Description
-##### Notebooks 
+### Folder Description
+#### Notebooks 
 - contains all the jupiter notebook used in experimenting to improve model ()
+
+### **BigBasket Product Query Engine  Notebook 1**
+**It contains**
+1. smooth data transformation 
+2. extracted important meta data,  encoding done using sentence encoder and stored in dict object along with meta data  
+3. returns space.pkl which will use to store context in vector db(qdrant) file containg vector representation of context and important meta data
+
+#### **BigBasket Product Query Engine  Notebook 2**
+**It contains**
+1. importing vector embedding from file space.pkl which is python dic object vector DB 
+2. storing vector in vector DB Qdrant 
+3. saving qdrant for api
+4. saving bert model for api
+5. saving sentence transformer for api
+
+### **BigBasket Product's Query Engine Notebook 3**
+Note book is aimed to integrating vector dd qdrant llm model 
+
+**It Contains**
+
+**1. Important imports**
+1. qdrant space 
+2. bert model 
+3. st encoder model 
+**2. searching closest context from vector db and returning respose from context**
+
+
 
 ### Installation
 
