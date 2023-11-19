@@ -22,7 +22,7 @@ Tools and Technology Used:
 #### Notebooks 
 - contains all the jupiter notebook used in experimenting to improve model ()
 
-### **BigBasket Product Query Engine  Notebook 1**
+#### **BigBasket Product Query Engine  Notebook 1**
 **It contains**
 1. smooth data transformation 
 2. extracted important meta data,  encoding done using sentence encoder and stored in dict object along with meta data  
@@ -36,7 +36,7 @@ Tools and Technology Used:
 4. saving bert model for api
 5. saving sentence transformer for api
 
-### **BigBasket Product's Query Engine Notebook 3**
+#### **BigBasket Product's Query Engine Notebook 3**
 Note book is aimed to integrating vector dd qdrant llm model 
 
 **It Contains**
