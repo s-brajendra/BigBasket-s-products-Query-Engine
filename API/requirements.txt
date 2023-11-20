@@ -1,0 +1,4 @@
+sentence-transformers
+qdrant-client
+flask
+flask_cors
