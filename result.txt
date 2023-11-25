@@ -1,0 +1,36 @@
+QUERY INPUT: suggest me one product for cleaning vegetables
+OUTPUT: Vegetable & Fruit Wash 
+PREDICTION SCORE 0.003299231640994549
+
+Referred Product: Vegetable & Fruit Wash with 100% Natural Action
+
+QUERY INPUT: what is the rating of product Vegetable & Fruit Wash with 100% Natural Action
+OUTPUT: 4.3 
+PREDICTION SCORE 0.9139595627784729
+
+Referred Product: Vegetable & Fruit Wash with 100% Natural Action
+
+QUERY INPUT: what is most loved beauty product
+OUTPUT: Brightening Beauty Pack 
+PREDICTION SCORE 0.11472972482442856
+
+Referred Product: Brightening Beauty Pack
+
+QUERY INPUT: price of dove soap
+OUTPUT: 699.0 
+PREDICTION SCORE 0.4523414671421051
+
+Referred Product: Lavender Soap Spa Set
+
+QUERY INPUT: what is most loved beauty product
+OUTPUT: Brightening Beauty Pack 
+PREDICTION SCORE 0.11472972482442856
+
+Referred Product: Brightening Beauty Pack
+
+QUERY INPUT: suggest one Tea Product
+OUTPUT: Go ahead and give this one a shot without a second thought 
+PREDICTION SCORE 0.12469898164272308
+
+Referred Product: Darjeeling Black Tea
+
