@@ -45,8 +45,8 @@ contains all the jupiter notebooks which used in process
 
 
 ### 3. Installation
-Install required dependencies 
-Go in API Folder
+- Install required dependencies 
+- Go in API Folder
 ```sh
 flask run
 ```
