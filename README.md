@@ -1,5 +1,7 @@
 ### BigBasket-s-products-Query-Engine
-NLP English Language Query Engine For Extensively Product on Big Basket 
+NLP English Language Query Engine For Extensively Product on Big Basket
+
+[see the mediums article here](https://medium.com/@smn.acm/bigbasket-products-query-engine-bert-qdrant-718bee72143a)
 
 
 ### 1. Features
@@ -43,6 +45,39 @@ contains all the jupiter notebooks which used in process
 
 
 ### 3. Installation
+Install required dependencies 
+Go in API Folder
+```sh
+flask run
+```
+
+
+### 4. Results
+
+1. QUERY INPUT: suggest me one product for cleaning vegetables
+   
+   OUTPUT: Vegetable & Fruit Wash
+
+   Referred Product: Vegetable & Fruit Wash with 100% Natural Action
+
+2. QUERY INPUT: what is most loved beauty product
+
+   OUTPUT: Brightening Beauty Pack
+
+   Referred Product: Brightening Beauty Pack
+
+3. QUERY INPUT: price of dove soap
+
+   OUTPUT: 699.0
+
+   Referred Product: Lavender Soap Spa Set
+
+4. QUERY INPUT: what is most loved beauty product
+
+   OUTPUT: Brightening Beauty Pack
+
+   Referred Product: Brightening Beauty Pack
+
 
 
 **VISIT ME ON** 
