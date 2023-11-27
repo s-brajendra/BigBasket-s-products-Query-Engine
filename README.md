@@ -1,7 +1,7 @@
 ### BigBasket-s-products-Query-Engine
 NLP English Language Query Engine For Extensively Product on Big Basket
 
-[see the mediums article here](https://medium.com/@smn.acm/bigbasket-products-query-engine-bert-qdrant-718bee72143a)
+[Medium Article here](https://medium.com/@smn.acm/bigbasket-products-query-engine-bert-qdrant-718bee72143a)
 
 
 ### 1. Features
@@ -25,12 +25,14 @@ Tools and Technology Used:
 contains all the jupiter notebooks which used in process
 
 ##### **BigBasket Product Query Engine  Notebook 1**
+- [NoteBook1](https://www.kaggle.com/code/sb0702/bigbasket-product-d-query-engine-notebook-1)
 ##### It contains
 1. smooth data transformation 
 2. extracted important meta data,  encoding done using sentence encoder and stored in dict object along with meta data  
 3. returns space.pkl which will use to store context in vector db(qdrant) file containg vector representation of context and important meta data
 
 ##### **BigBasket Product Query Engine  Notebook 2**
+- [NoteBook2](https://www.kaggle.com/code/sb0702/bigbasket-product-s-query-engine-notebook-2)
 ##### It contains
 1. importing vector embedding from file space.pkl which is python dic object vector DB 
 2. storing vector in vector DB Qdrant 
@@ -38,7 +40,9 @@ contains all the jupiter notebooks which used in process
 4. saving bert model for api
 5. saving sentence transformer for api
 
-##### **BigBasket Product's Query Engine Notebook 3**
+##### **BigBasket Product's Query Engine Notebook 3
+- [NoteBook3](https://www.kaggle.com/code/sb0702/bigbasket-product-s-query-engine-notebook-3)
+
 ##### It contains
 1. Note book is aimed to integrating vector dd qdrant llm model 
 
